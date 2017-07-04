@@ -1,4 +1,11 @@
-# chrisify
+# miko-ify
+
+## Credit
+
+I pretty much have to give all credit for this to Zikes. I just modified it for my own purposes.
+
+github.com/zikes/chrisify
+github.com/zikes/mybot
 
 ## Linux Install
 
